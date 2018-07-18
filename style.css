@@ -7,8 +7,8 @@ font-family: OpenSans-SemiBold;
 src: url(/OpenSans-SemiBold.tff);
 }
 p {
-font-family: "Raleway-Regular", Raleway, sans-serif;
+font-family: 'Raleway', sans-serif;
 }
 h1, h2, h3 {
-font-family: "OpenSans-Semibold", Open Sans, sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
