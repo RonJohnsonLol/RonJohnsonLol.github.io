@@ -1,0 +1,20 @@
+@font-face {
+font-family: Raleway-Regular;
+src: url(/Raleway-Regular.tff);
+}
+@font-face {
+font-family: OpenSans-SemiBold;
+src: url(/OpenSans-SemiBold.tff);
+}
+p {
+font-family: "Raleway-Regular", Raleway, sans-serif;
+}
+h1 {
+font-family: "OpenSans-Semibold", OpenSans, sans-serif;
+}
+h2 {
+font-family: "OpenSans-Semibold", OpenSans, sans-serif;
+}
+h3 {
+font-family: "OpenSans-Semibold", OpenSans, sans-serif;
+}
