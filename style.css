@@ -27,7 +27,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 html {
-	overflow: hidden;
+	overflow-x: hidden;
 	height: 100%;
 	width: 100%;
 }
