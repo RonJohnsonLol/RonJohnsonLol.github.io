@@ -12,3 +12,7 @@ font-family: 'Raleway', sans-serif;
 h1, h2, h3 {
 font-family: 'Open Sans', sans-serif;
 }
+
+.mainHeading {
+	background-color: black;
+	color: white;
