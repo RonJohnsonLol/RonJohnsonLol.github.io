@@ -14,5 +14,13 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .mainHeading {
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: grey;
+	height: 100px;
+	width: 100%;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-bottom: 0.10px;
+	padding-top: 20px;
+	
+}
