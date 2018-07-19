@@ -16,11 +16,14 @@ font-family: 'Open Sans', sans-serif;
 .mainHeading {
 	background-color: white;
 	color: grey;
-	height: 100px;
+	height: 75px;
 	width: 100%;
-	padding-left: 16px;
 	padding-right: 16px;
 	padding-bottom: 0.10px;
-	padding-top: 20px;
+	padding-top: 10px;
 	
+}
+
+html {
+	padding-left: 16px;
 }
