@@ -18,12 +18,13 @@ font-family: 'Open Sans', sans-serif;
 	color: grey;
 	height: 75px;
 	width: 80%;
+	padding-left: 16px;
 	padding-right: 16px;
 	padding-bottom: 0.10px;
 	padding-top: 10px;
 	border-bottom-style: solid;
 	border-color: black;
-	
+
 }
 
 html {
