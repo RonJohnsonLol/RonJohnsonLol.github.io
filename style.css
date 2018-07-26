@@ -17,7 +17,7 @@ margin-left: 10px
 }
 
 .mainHeading {
-	background-color: white;
+	background-color: azure;
 	color: grey;
 	height: 75px;
 	width: 98%;
@@ -36,5 +36,5 @@ html {
 	width: 100%;
 }
 body {
-	background-color: cornsilk;
+	background-color: aliceblue;
 }
